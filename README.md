@@ -1,8 +1,6 @@
 
 # TNT MEMEFORGE STUDIO
 
-*Powered by passion, built with creativity.*
-
 ## About
 
 I’m an independent developer at **TNT MEMEFORGE STUDIO**, working on projects involving AI design, software and application development, game development, and digital graphics.
@@ -83,7 +81,3 @@ My goal is to create useful digital products, explore technology, and share know
 - YouTube: https://www.youtube.com/@TNT_MemeForge_studio
 - Facebook: https://www.facebook.com/profile.php?id=61593474839831
 - X: https://x.com/TNTMEMEFORGE
-
----
-
-*Powered by passion, built with creativity.*
